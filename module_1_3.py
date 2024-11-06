@@ -1,8 +1,8 @@
 name = 'Evgeny'
-print (name)
+print ('Name:',name)
 age = 26
-print (age)
+print ('Age:' ,age)
 new_age = age + 3
-print (new_age)
-is_student = (1 == 1)
-print (is_student)
+print ('New Age:' ,new_age)
+is_student = True
+print ('Is Student:' ,is_student)
